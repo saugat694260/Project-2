@@ -25,7 +25,7 @@ public class Calculator implements ActionListener {
 	JLabel label=new JLabel();
 	
 	//
-	File file=new File("C:\\Users\\dell\\Desktop\\runaway.wav");
+	File file = new File("src/runaway.wav");
 	AudioInputStream audioStream;
 	Clip clip;
 	//
